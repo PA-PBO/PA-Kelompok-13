@@ -349,8 +349,30 @@ Mengedit data obat, dari OBH ke ABC.
 
 #### 6. Pasien
 Menambahkan data pasien.
-![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/30a01050-15c0-43df-bbd8-5fc50f3683c3)
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/8aa99440-1381-4c05-8c2c-9ea5d34297f2)
 
 Menghapus data pasien.
+
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/38e4018b-0a8d-4475-a874-96b228e20b19)
+
+Mengedit data pasien.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/2dfba66b-6173-4951-bff2-3be1b2ecf522)
+
+
+#### 7. Resep Obat
+Menambahkan resep obat.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/ff2b7b86-465f-4f10-8328-ea4c6bdc78ac)
+
+Tidak dapat melakukan edit data di resep obat, dikarenakan relasinya non-transferable. Yaitu tidak bisa dipindahtangankan ke orang lain.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/e04a54ca-3060-4a8e-a621-dc385ad4382d)
+
+Menghapus data resep obat.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/b9f2df88-01a4-42ca-91c0-06c85634cc6c)
+
+
 
