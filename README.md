@@ -293,3 +293,57 @@ Saat login, memasukkan username dan password yang sudah di bentuk secara hardcod
 
 
 #### 2. Menu
+Terdapat beberapa pilihan menu untuk beralilh ke halaman tersebut. Diantaranya ada menu dokter, ruangan, obat, resep obat, dan pasien.
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/2ac60efb-b8a7-4827-b5c1-e1a2a66ac327)
+
+
+#### 3. Dokter
+Tampilan awal ketika baru masuk ke halaman data dokter.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/8570082c-4705-4975-9a8b-e4c01eadb6c7)
+
+Menambahkan data dan akan muncul dialog message bahwa data berhasil disimpan.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/01a061ff-b2d9-4830-b970-3a0426602e82)
+
+Mengedit data dokter.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/8035d4be-d92a-436a-a8b4-ca370fb7306e)
+
+Menghapus data dokter.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/dfa90e0b-4968-4d03-a1eb-8d373b31edfa)
+
+
+#### 4. Ruangan
+Menambahkan data ruangan.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/4a537186-66fb-4419-b5af-47bc815e5579)
+
+Mengedit data ruangan.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/b898c7a4-3942-4f8b-a509-964eb80121e0)
+
+Menghapus data ruangan.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/a8949ae2-2ded-42e6-828a-b1bf16d13757)
+
+
+#### 5. Obat
+Menambahkan data obat dalam akan memunculkan inputan dialog untuk memasukkan dosis yang diperlukan.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/8b2e1454-7703-4b27-920f-90132f35b5b5)
+
+Menambahkan data obat_luar akan memunculkan input dialog untuk memasukkan cara pemakaian obat tersebut.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/b4faac68-cf56-4adc-b54d-15cb5579983e)
+
+Menghapus data obat luar: Betadine.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/9bf9c3d5-d634-40de-9f93-18b0eca3854e)
+
+Mengedit data obat, dari OBH ke ABC.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/dd66f31c-346d-4e52-b3dc-f48c33ce4a6d)
+
+
