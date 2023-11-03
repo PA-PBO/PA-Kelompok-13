@@ -4,6 +4,7 @@
 Rumah Sakit merupakan fasilitas kesehatan yang menyediakan layanan perawatan dan penanganan bagi masyarakat yang membutuhkan perhatian medis. Jika diimplementasikan ke dalam sebuah basis data, rumah sakit akan memiliki banyak entitas yang dapat terbentuk. Namun dalam kasus ini, kelompok kami mengambil entitas dokter, pasien, ruangan, resep obat, dan obat. Akan dibuat sebuah program menggunakan bahasa pemrograman Java dengan GUI dan akan dihubungkan dengan database MYSQL.
 
 ### FLOWCHART:
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/649e8b2e-a3b4-4028-9dae-6e24e4107078)
 
 ## ERD
 #### * LOGICAL: 
@@ -111,3 +112,63 @@ Method untuk batal select data menggunakan method refresh.
 
 
 #### 5. JFrame Pasien
+Konstruktor kelas Pasien. Ketika objek Pasien dibuat, konstruktor ini akan dijalankan. Pada bagian ini, beberapa metode diinisialisasi, yaitu initComponents() yang digunakan untuk menginisialisasi komponen GUI, serta tampilData(), cbdokter(), dan cbruang() yang digunakan untuk mengisi data dalam komponen GUI.
+
+<img width="137" alt="image" src="https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/c05da195-2d80-482d-9333-20cfba275092">
+
+Method refresh digunakan untuk membersihkan teks input dan menampilkan kembali data pada tabel.
+
+<img width="193" alt="image" src="https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/0edba325-c941-4ae3-a6d3-2bae34565424">
+
+Method cbdokter,berfungsi untuk mengisi item pada JComboBox dengan data yang berasal dari tabel dokter dalam database.
+
+<img width="599" alt="image" src="https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/68ea5a61-f67d-490e-9548-5b4819a400f2">
+
+Method cbruang, memiliki fungsi untuk mengisi item pada JComboBox "cbRuangan" dengan data dari tabel ruangan dalam database.
+
+<img width="607" alt="image" src="https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/f7ae7dec-b467-49d7-a714-f88e5602120b">
+
+Method tampilData, digunakan untuk mengisi tabel "tblPasien" dengan data dari tabel pasien dalam database.Objek DefaultTableModel digunakan untuk menampung kolom-kolom yang ingin ditampilkan, kemudian mengambil data dari database dan menambahkannya ke tabel.
+
+<img width="533" alt="image" src="https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/6c1b0897-0556-45fb-977d-f43855e4c990">
+
+tblPasienMouseClicked, memungkinkan pengguna untuk memilih baris dari tabel untuk mengisi input teks dan btnTambah, btnEdit, btnBatal, btnHapus, dan btnKembali yang mengatur tindakan yang harus dilakukan ketika tombol ditekan.
+
+<img width="413" alt="image" src="https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/13b6df05-3a08-48bf-a1f3-4c8663d53871">
+
+Method btnTambahActionPerformed, dijalankan ketika tombol tambah ditekan dan digunakan untuk menambahkan data pasien baru ke dalam database.
+
+<img width="599" alt="image" src="https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/ee6853e4-fbaa-458d-b243-4f5f28ac42c3">
+
+Method btnEditActionPerformed, dijalankan ketika tombol edit ditekan dan digunakan untuk mengedit data pasien yang ada di dalam database.
+
+<img width="599" alt="image" src="https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/20f0ea3e-8001-4962-95ca-03d6cb1abc4b">
+
+Method btnBatalActionPerformed, dijalankan ketika tombol batal ditekan dan digunakan untuk membersihkan teks input dan menghapus pemilihan dari tabel.
+
+<img width="434" alt="image" src="https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/64ac1b75-a756-48c6-9a6e-ccff332bc7b8">
+
+Method btnHapusActionPerformed, dijalankan ketika tombol hapus ditekan dan digunakan untuk menghapus data pasien dari database.
+
+<img width="591" alt="image" src="https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/4f59328d-18ba-4dcf-be12-302e55d19e4c">
+
+Method btnKembaliActionPerformed, dijalankan ketika tombol kembali ditekan dan digunakan untuk kembali ke menu.
+
+<img width="439" alt="image" src="https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/6c1b8e82-454f-446e-aab8-31f46ea35dc4">
+
+#### 6. JFrame Menu
+Class Menu. Deklarasi kelas mendefinisikan nama kelas, kelas induk, dan deklarasi atribut dan metode. Konstruktor kelas adalah metode yang dipanggil saat objek kelas dibuat. Dalam kasus ini, konstruktor kelas Menu akan memanggil metode initComponents().
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/9511c852-2d9d-4f54-b87c-22b3d0720d51)
+
+Method cbMenuActionPerformed mengandung pernyataan switch yang digunakan untuk mengeksekusi kode yang berbeda berdasarkan pilihan yang dipilih oleh pengguna dalam cbMenu (kotak kombinasi).
+Jika pengguna memilih "DATA DOKTER", maka kasus ini akan dijalankan.
+Jika pengguna memilih "DATA RUANGAN", maka kasus ini akan dijalankan.
+Jika pengguna memilih "DATA OBAT", maka kasus ini akan dijalankan.
+Jika pengguna memilih "DATA RESEP OBAT", maka kasus ini akan dijalankan.
+Jika pengguna memilih "DATA PASIEN", maka kasus ini akan dijalankan.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/0a74f108-034a-456d-a1fb-eeeb2ffd9f95)
+
+
+
