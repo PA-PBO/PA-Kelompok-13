@@ -90,5 +90,24 @@ Method untuk button tambah.
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/27614bc2-42cc-4332-ae60-5d14ac17b8f5)
 
 
+Method untuk button kembali ke menu.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/b79123c5-d583-48b2-835c-d0d826e51089)
 
 
+Method untuk mengedit data ruangan.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/c6342a61-0f9e-4a65-8053-6367c03eabe7)
+
+
+Method untuk menghapus data ruangan.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/defec3c8-f7ad-4856-b88a-a8a3da1a01d9)
+
+
+Method untuk batal select data menggunakan method refresh.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/393f06b3-3ea8-4f1f-93d6-7b84a1429999)
+
+
+#### 5. JFrame Pasien
