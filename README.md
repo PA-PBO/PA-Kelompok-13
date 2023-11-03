@@ -171,4 +171,73 @@ Jika pengguna memilih "DATA PASIEN", maka kasus ini akan dijalankan.
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/0a74f108-034a-456d-a1fb-eeeb2ffd9f95)
 
 
+#### 7. JFrame Obat
+Public class obat dengan property jenis untuk radio button obat luar dan obat dalam.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/9d48418b-ada3-441a-941c-51848f5cc589)
+
+
+Method refresh untuk membersihkan text field.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/377cfb67-7d65-44f9-9e22-9b320a4c3ebc)
+
+
+Method tampildata untuk menampilkan data di tabel.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/a9b8c056-6e00-4fee-aa2b-a89b3d3308b8)
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/94362dc2-3494-48fc-9526-e4f33891442a)
+
+
+Method untuk radio button.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/43168286-018f-494a-b7bf-10d04ef6df9c)
+
+
+Variabel yang diberi access modifier private untuk mendapatkan akses ke database untuk tabel obat luar.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/062a5ecf-985e-4870-856e-08bd4d070760)
+
+
+Variabel yang diberi access modifier private untuk mendapatkan akses ke database untuk tabel obat dalam.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/9edd988d-f294-4e3c-aba8-7dd051b4a510)
+
+
+Method button tambah untuk memasukkan data ke dalam database.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/54aa9cd5-6cfd-4702-9d32-339cef6298c5)
+
+
+Syntax memasukkan data ke database untuk obat luar.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/4f7d50fd-ba4d-44e8-92a5-bbb9bda73a9f)
+
+Syntax untuk memasukkan data ke database untuk obat dalam.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/5fc45ca7-7fa9-4fab-929a-e4b2ea76a641)
+
+Method mouse click tabel obat agar dapat memilih data.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/1e185e61-3fcb-4939-96da-514736501d91)
+
+Button kembali ke menu.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/ed784b9b-9bc3-4036-9856-dace54f6a15f)
+
+Button Edit data obat.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/e1121110-13dd-44b3-88c2-2ddf60a240c1)
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/f1a7041a-0c6c-44cd-96a6-501ae9941f55)
+
+
+Method untuk menghapus data.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/a3c25f98-176b-4688-ad77-c9cf59476a36)
+
+Button batal untuk membersihkan text field.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/e4c61ee5-ef63-48be-b1c6-96782d5eb24c)
+
+Variabel jenis yang berperan sebagai propert tadi sekarang digunakan untuk mendefinisikan radio button.
+
 
