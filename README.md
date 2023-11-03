@@ -17,6 +17,7 @@ Rumah Sakit merupakan fasilitas kesehatan yang menyediakan layanan perawatan dan
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/7e330263-588d-4c7e-a2d4-0db2c472a6fe)
 
 Berikut adalah codingan untuk mengkoneksikan program ke database mysql. Juga menginputkan syntax dibawah agar bisa connect.
+
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/42ea5de5-bb85-43df-b80d-28fa8510c6b8)
 
 #### 2. JFrame Login
@@ -66,5 +67,28 @@ Method untuk menghapus data dokter.
 Method untuk batal select data dengan memanggil method refresh.
 
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/2269e9d5-68cd-451f-a90e-4c9f1f818e85)
+
+
+#### 4. JFrame Ruangan
+Method untuk membersihkan text field.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/23c5cfc5-93eb-44f5-a334-c7ae84978903)
+
+
+Method untuk menampilkan data.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/7e227355-4b11-4cc3-918e-96d3095dc92c)
+
+
+Method untuk mouse click tabel ruangan.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/f92c5280-ba60-4cb8-b2b5-e66e3a55109a)
+
+
+Method untuk button tambah.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/27614bc2-42cc-4332-ae60-5d14ac17b8f5)
+
+
 
 
