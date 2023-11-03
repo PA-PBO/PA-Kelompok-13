@@ -1,5 +1,10 @@
 ## Rumah Sakit - PA PBO - K13
 
+Nama: - Agnesia Prawini Thesalonika (2209116068)
+      - Tsurayya Salsabila (2209116076)
+      
+Sistem Informasi B 2022
+
 ### Deskripsi Project:
 Rumah Sakit merupakan fasilitas kesehatan yang menyediakan layanan perawatan dan penanganan bagi masyarakat yang membutuhkan perhatian medis. Jika diimplementasikan ke dalam sebuah basis data, rumah sakit akan memiliki banyak entitas yang dapat terbentuk. Namun dalam kasus ini, kelompok kami mengambil entitas dokter, pasien, ruangan, resep obat, dan obat. Akan dibuat sebuah program menggunakan bahasa pemrograman Java dengan GUI dan akan dihubungkan dengan database MYSQL.
 
