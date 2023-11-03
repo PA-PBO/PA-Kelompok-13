@@ -347,3 +347,10 @@ Mengedit data obat, dari OBH ke ABC.
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/dd66f31c-346d-4e52-b3dc-f48c33ce4a6d)
 
 
+#### 6. Pasien
+Menambahkan data pasien.
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/30a01050-15c0-43df-bbd8-5fc50f3683c3)
+
+Menghapus data pasien.
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/38e4018b-0a8d-4475-a874-96b228e20b19)
+
