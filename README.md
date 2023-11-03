@@ -238,6 +238,44 @@ Button batal untuk membersihkan text field.
 
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/e4c61ee5-ef63-48be-b1c6-96782d5eb24c)
 
-Variabel jenis yang berperan sebagai propert tadi sekarang digunakan untuk mendefinisikan radio button.
+Variabel jenis yang berperan sebagai properti tadi sekarang digunakan untuk mendefinisikan radio button.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/d45d77b3-e3a3-4d38-bb90-3c61859e1c53)
+
+
+#### 8. JFrame Resep Obat
+Public class resep obat
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/daed033d-e387-4514-b870-142c4732d0c4)
+
+Method refresh untuk membersihkan pilox.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/ee74bd50-5f8a-4efd-a1d9-3cf93dd9547a)
+
+Method untuk mengisi combo box dengan data yang sudah masuk ke dalam database.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/eb0d2224-0dec-4596-91fc-77430201594f)
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/ed66fe9b-2608-4d53-a92d-13151499e5c3)
+
+Method resep obat.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/403eefcf-bff3-44c0-bd25-9a21d700068c)
+
+Method button untuk mengedit data.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/90699057-2833-4967-80dd-dff43b3acbfc)
+
+Method button untuk menambah data ke database.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/bb45167b-b9ac-481e-a4d6-9508ea8faddb)
+
+Method button hapus untuk menghapus data.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/65a8c02c-519d-4dad-8084-03e4431a90ba)
+
+Method button untuk batal dan memanggil class lain.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/79018fe6-10c5-4da8-b2e4-24fe20897754)
+
 
 
