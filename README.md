@@ -13,6 +13,12 @@ Rumah Sakit merupakan fasilitas kesehatan yang menyediakan layanan perawatan dan
 #### * RELATIONAL:
 ![WhatsApp Image 2023-10-27 at 13 57 37 (3)](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/a3ee4237-e14b-4996-a596-cdb2c9a8842d)
 
+#### Hierarki Kelas
+Hierarki kelas dalam gambar menunjukkan bahwa kelas obat adalah supertype dari kelas obat dalam dan obat luar. Supertype adalah kelas yang memiliki atribut dan metode yang akan diturunkan ke kelas turunannya. Subtype adalah kelas yang mewarisi atribut dan metode dari supertypenya. Dalam kasus ini, kelas obat memiliki atribut dan metode yang umum untuk semua jenis obat. Kelas obat dalam dan obat luar adalah turunan dari kelas obat yang memiliki metode tambahan yang spesifik untuk obat dalam, seperti cara penggunaan dan efek samping yang lebih spesifik.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/127474858/6ebe776d-503b-4fb0-9fdc-bc07121114ec)
+
+
 ### SCREENSHOT CODINGAN:
 #### 1. Koneksi ke Database
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/7e330263-588d-4c7e-a2d4-0db2c472a6fe)
