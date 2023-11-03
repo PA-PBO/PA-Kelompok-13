@@ -279,3 +279,11 @@ Method button untuk batal dan memanggil class lain.
 
 
 
+### SCREENSHOT OUTPUT
+
+#### 1. Login
+Saat login, memasukkan username dan password yang sudah di bentuk secara hardcode. Artinya ini hanya bisa dikelola oleh admin.
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/3ffe6035-8d5c-459c-99df-84c5a9eebc15)
+
+
+#### 2. Menu
