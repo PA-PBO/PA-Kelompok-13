@@ -58,3 +58,8 @@ Method untuk mengedit data dokter.
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/71677609-c3ae-45af-ad22-427ccd1c954a)
 
 
+Method untuk menghapus data dokter.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/c70fe50f-cb59-4a57-ad47-5a86aa7ab3b9)
+
+
