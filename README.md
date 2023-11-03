@@ -63,3 +63,8 @@ Method untuk menghapus data dokter.
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/c70fe50f-cb59-4a57-ad47-5a86aa7ab3b9)
 
 
+Method untuk batal select data dengan memanggil method refresh.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/2269e9d5-68cd-451f-a90e-4c9f1f818e85)
+
+
