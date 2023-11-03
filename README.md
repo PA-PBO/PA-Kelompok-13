@@ -53,3 +53,8 @@ Method untuk kembali ke menu.
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/89af7b7f-c4d0-4361-8350-51e29e65d7ed)
 
 
+Method untuk mengedit data dokter.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/71677609-c3ae-45af-ad22-427ccd1c954a)
+
+
