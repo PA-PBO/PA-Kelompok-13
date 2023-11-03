@@ -29,10 +29,27 @@ Ini adalah syntax untuk button keluar dari program.
 
 #### 3. JFrame Dokter
 Method untuk menampilkan data.
+
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/0f7a7955-422f-4b71-abb8-443ed9ec714a)
 
+
 Method untuk membersihkan text field setelah data berhasil ditambah, dihapus, atau diubah.
+
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/5f1d6fbc-64fe-4a05-bb51-19af992597dc)
 
+
 Method untuk select data di tabel.
+
 ![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/1293f2c8-c645-48d5-bcc9-2d5df1baeca4)
+
+
+Method untuk button tambah yang fungsinya menambahkan data dari text field ke tabel yang terkoneksi ke database.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/027d82e6-dbc8-4cf5-8593-434870dfa6e6)
+
+
+Method untuk kembali ke menu.
+
+![image](https://github.com/PA-PBO/PA-Kelompok-13/assets/122155316/89af7b7f-c4d0-4361-8350-51e29e65d7ed)
+
+
